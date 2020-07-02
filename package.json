@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Baaz",
   "license": "ISC",
   "dependencies": {
     "react-feather": "^2.0.8",
