@@ -1,7 +1,7 @@
 {
   "name": "@baaz/buikit",
   "version": "1.0.0",
-  "description": "",
+  "description": "buikit (baaz frameworks)",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
