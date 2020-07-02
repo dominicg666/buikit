@@ -15,5 +15,23 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "informed": "^3.9.0"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominicg666/buikit.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "baaz",
+    "framework",
+    "pwa"
+  ],
+  "bugs": {
+    "url": "https://github.com/dominicg666/buikit/issues"
+  },
+  "homepage": "https://github.com/dominicg666/buikit#readme"
 }
