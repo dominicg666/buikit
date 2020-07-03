@@ -1,5 +1,5 @@
 .accordian_section_root {
-    border-bottom: 1px solid rgb(var(--venia-border));
+    border-bottom: 1px solid #ddd;
 }
 
 .accordian_section_root:last-of-type {
@@ -29,8 +29,9 @@
     justify-content: space-between;
     padding: 0 1.5rem;
     width: 100%;
+    background-color: white;
 }
 
 .title_container_open {
-    composes: title_container;
+    @extend .title_container;
 }
