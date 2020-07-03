@@ -1,0 +1,26 @@
+.modal_root {
+    background-color: white;
+    height: 100%;
+    max-width: 1166px;
+    max-height: 652px;
+    padding: 10px;
+    opacity: 0;
+    overflow: hidden;
+    position: fixed;
+    transition: all 0.4s ease-in-out;
+    visibility: hidden;
+    width: 100%;
+    z-index: 3;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.modal_root_open {
+    @extend .modal_root;
+    box-shadow: 1px 0 #ddd;
+    opacity: 1;
+    visibility: visible;
+}
