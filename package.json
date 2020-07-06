@@ -1,6 +1,6 @@
 {
   "name": "buikit",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "buikit (baaz frameworks)",
   "main": "lib/index.js",
   "scripts": {
