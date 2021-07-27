@@ -1,5 +1,5 @@
 .modal_root {
-    background-color: white;
+    // background-color: white;
     height: 100%;
     max-width: 1166px;
     max-height: 652px;
@@ -20,7 +20,7 @@
 
 .modal_root_open {
     @extend .modal_root;
-    box-shadow: 1px 0 #ddd;
+    // box-shadow: 1px 0 #ddd;
     opacity: 1;
     visibility: visible;
 }
