@@ -9,6 +9,8 @@
   "author": "Baaz",
   "license": "ISC",
   "dependencies": {
+  },
+  "devDependencies": {
     "react-feather": "^2.0.8",
     "react-head": "^3.3.0",
     "prop-types": "^15.7.2",
